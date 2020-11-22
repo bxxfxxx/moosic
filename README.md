@@ -1,0 +1,2 @@
+# moosic
+Moosic library
